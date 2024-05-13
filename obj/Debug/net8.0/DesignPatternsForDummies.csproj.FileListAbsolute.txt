@@ -1,0 +1,15 @@
+D:\Workshop\DesignPatternsForDummies\bin\Debug\net8.0\DesignPatternsForDummies.exe
+D:\Workshop\DesignPatternsForDummies\bin\Debug\net8.0\DesignPatternsForDummies.deps.json
+D:\Workshop\DesignPatternsForDummies\bin\Debug\net8.0\DesignPatternsForDummies.runtimeconfig.json
+D:\Workshop\DesignPatternsForDummies\bin\Debug\net8.0\DesignPatternsForDummies.dll
+D:\Workshop\DesignPatternsForDummies\bin\Debug\net8.0\DesignPatternsForDummies.pdb
+D:\Workshop\DesignPatternsForDummies\obj\Debug\net8.0\DesignPatternsForDummies.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workshop\DesignPatternsForDummies\obj\Debug\net8.0\DesignPatternsForDummies.AssemblyInfoInputs.cache
+D:\Workshop\DesignPatternsForDummies\obj\Debug\net8.0\DesignPatternsForDummies.AssemblyInfo.cs
+D:\Workshop\DesignPatternsForDummies\obj\Debug\net8.0\DesignPatternsForDummies.csproj.CoreCompileInputs.cache
+D:\Workshop\DesignPatternsForDummies\obj\Debug\net8.0\DesignPatternsForDummies.sourcelink.json
+D:\Workshop\DesignPatternsForDummies\obj\Debug\net8.0\DesignPatternsForDummies.dll
+D:\Workshop\DesignPatternsForDummies\obj\Debug\net8.0\refint\DesignPatternsForDummies.dll
+D:\Workshop\DesignPatternsForDummies\obj\Debug\net8.0\DesignPatternsForDummies.pdb
+D:\Workshop\DesignPatternsForDummies\obj\Debug\net8.0\DesignPatternsForDummies.genruntimeconfig.cache
+D:\Workshop\DesignPatternsForDummies\obj\Debug\net8.0\ref\DesignPatternsForDummies.dll
