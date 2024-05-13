@@ -17,3 +17,17 @@
     - assemble objectsd and classes into larger structures 
 - behavioral:
     - effective communication between objects.
+
+## Creational
+### Abstract Factory:
+- Summarize: An strategy use when you have something that in essence is the same, but  have some unique attributes (each one of the factory has their way of doing things); works fine with group of things. Maybe useful in base services. 
+```C#
+    Console.WriteLine("Client: Testing client code with the first factory type...");
+    IFurnitureFactory furnitureFactory = new ModernFactory();
+    IChair newChair = furnitureFactory.CreateChair();
+    newChair.SitOn();
+    Console.WriteLine("Client: Testing client code with the second factory type...");
+    furnitureFactory = new VictorianFactory();
+    newChair = furnitureFactory.CreateChair();
+    newChair.SitOn();
+```
